@@ -1,0 +1,30 @@
+This project have visual studio for front end and for  database  backend we used sql server
+so system should contain both visual studio and sqlserver
+
+
+before running this project
+
+
+first we have to run below mentioned code in sql server
+
+
+
+Create DataBase TestDB;
+CREATE TABLE TABLE_IMG
+(
+ID INT IDENTITY(1,1) PRIMARY KEY,
+NAME VARCHAR(10),
+DESCRIPTION VARCHAR(30),
+THE_IMAGE IMAGE,
+PRICE INT
+);
+CREATE TABLE TABLE_VIEWER
+(
+ID INT IDENTITY(1,1) PRIMARY KEY,
+NAME VARCHAR(10),
+DESCRIPTION VARCHAR(30),
+THE_IMAGE IMAGE,
+PRICE INT,
+QUANTITY INT,
+TotalAmount INT
+);

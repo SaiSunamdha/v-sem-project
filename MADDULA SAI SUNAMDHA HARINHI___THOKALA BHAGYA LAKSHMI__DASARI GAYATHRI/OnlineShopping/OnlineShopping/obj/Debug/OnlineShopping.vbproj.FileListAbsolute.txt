@@ -1,0 +1,34 @@
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.pdb
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.xml
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form1.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Resources.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.exe
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.xml
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form2.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form3.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form4.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form5.resources
+C:\Users\hp\source\repos\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form6.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.pdb
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.xml
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbprojAssemblyReference.cache
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form1.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form2.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form3.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form4.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form5.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Form6.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.Resources.resources
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbproj.GenerateResource.cache
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.vbproj.CoreCompileInputs.cache
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.exe
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.xml
+C:\Users\M S SUNAMDHA HARINHI\Desktop\MADDULA SAI SUNAMDHA HARINHI___THOKALA BHAGYA LAKSHMI__DASARI GAYATHRI\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
